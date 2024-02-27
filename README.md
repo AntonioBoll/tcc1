@@ -1,4 +1,4 @@
-#Topic Modeling using BERTopic
+# Topic Modeling using BERTopic
 
 This was done as my end of graduation project at UFRGS.
 
