@@ -1,3 +1,5 @@
+#Topic Modeling using BERTopic
+
 This was done as my end of graduation project at UFRGS.
 
 It consists of a topic modeling using BERTopic to cluster non labeled information from electronic invoices obtained by SEFAZ-RS, the state treasury office at Rio Grande do Sul (BR).
