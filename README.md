@@ -17,4 +17,4 @@ The codes in this github repository are:
 * preprocessing_database: This is the code used to preprocess the non refined dataset;
 * groups_modeling: This is the code used to generate the images from each topic.
 
-The full text is available only in Portuguese and is acessible using this link: .
+The full text is available only in Portuguese and is acessible using this link: https://lume.ufrgs.br/handle/10183/276955.
